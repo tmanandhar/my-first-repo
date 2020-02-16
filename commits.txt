@@ -1,0 +1,17 @@
+commit 8ccdfe770d00c00c82e9f7a4a91490252617d691
+Author: tmanandhar <triratnaz@gmail.com>
+Date:   Sun Feb 16 12:17:29 2020 -0500
+
+    added gitignore
+
+commit 573f9522ad8d5d9c2ed1499a3ed11756e720f586
+Author: tmanandhar <triratnaz@gmail.com>
+Date:   Thu Nov 21 20:41:17 2019 -0500
+
+    Added two files
+
+commit 94b771327577ade0a74d961832cff9e17a91be16
+Author: tmanandhar <triratnaz@gmail.com>
+Date:   Tue Nov 19 23:22:34 2019 -0500
+
+    added readme.txt
