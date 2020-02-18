@@ -1,3 +1,9 @@
+commit 2bbc20f3f5d4de0358525d84da101801c1acf480
+Author: tmanandhar <triratnaz@gmail.com>
+Date:   Sun Feb 16 13:13:46 2020 -0500
+
+    added *.idea to .gitignore list
+
 commit 8ccdfe770d00c00c82e9f7a4a91490252617d691
 Author: tmanandhar <triratnaz@gmail.com>
 Date:   Sun Feb 16 12:17:29 2020 -0500
